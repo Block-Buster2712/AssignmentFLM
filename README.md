@@ -1,1 +1,1 @@
-This is a remix of a song that GundamCoder240 made on Scratch. Please credit both me and him if you use this.
+This is where I'll store all the FLMs of the songs that I make for GundamCoder240's VS Gcode mod. The instrumentals are included in the files to make remixing easier. Please credit both Block_Buster2712 and GundamCode240 if you use any of these.
